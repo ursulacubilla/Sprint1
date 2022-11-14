@@ -6,7 +6,6 @@
     header {
         margin: 5px 0 10px 0;
         height: 150px;
-        /* modificar para que quede mejor en tablet */
     }
     .contenedor {
         width: 700px;
@@ -32,7 +31,6 @@
     }
     main .caja4 {
         width: 100%;
-        /* border-right: 25px solid yellowgreen; */
     }
     main .caja5 {
         width: 100%;

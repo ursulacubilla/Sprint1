@@ -100,7 +100,6 @@ footer {
     height: 30px;
     margin-top: 20px;
     margin-left: 30px;
-    /* margin-right: 30px; */
     background-color: aqua;
 }
 main .caja3 {
@@ -116,12 +115,6 @@ main .caja3 div {
 main .caja4 div {
     display: inline-block;
 }
-/* main .caja5 {
-    height: auto;
-    margin: 0;
-    background-color: plum;
-    border-right: 30px solid black;
-} */
 main .caja5 div {
     display: inline-block;
 }
