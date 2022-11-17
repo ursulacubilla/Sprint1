@@ -53,37 +53,15 @@
         margin-top: 6px;
         margin-bottom: 5px;
     }
-    .c5 {
+    .c5, .c7 {
         width: 80%;
         height: 20px;
     }
-    .c6 {
-        width: 80%;
-        margin: 20px 0 0 20px;
-        height: 20px;
-    }
-    .c7 {
-        width: 80%; 
-        height: 20px;
-    }
-    .c8 {
+
+    .c6, .c8, .c9, .c10, .c11 {
         width: 80%;
         margin: 20px 0 0 20px;
         height: 20px;
     }
-    .c9 {
-        width: 80%;
-        margin: 20px 0 0 20px;
-        height: 20px;
-    }
-    .c10 {
-        width: 80%;
-        margin: 20px 0 0 20px;
-        height: 20px;
-    }
-    .c11 {
-        width: 80%;
-        margin: 20px 0 10px 20px;
-        height: 20px;
-    }
+
 }
