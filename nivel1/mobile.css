@@ -37,10 +37,7 @@
         width: 100%;
         border-right: 0;
     }
-    .caja4 {
-        width: 50%;
-    }
-    .caja5 {
+    .caja4, .caja5 {
         width: 50%;
     }
     nav .c1, nav .c2, nav .c3 {
