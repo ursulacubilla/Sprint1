@@ -7,19 +7,32 @@
     margin: 0 auto;
 }
 header {
-    height: 200px;
-    margin-top: 15px;
+    height: 260px;
+    /* margin-top: 15px;
     margin-bottom: 10px;
     position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    background: tomato;
+    justify-content: center; */
+    background-image: url(http://127.0.0.1:5500/images/header.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
 }
 header nav {
     display: flex;
     justify-content: center;
     margin-top: 10px;
+}
+/* header .nav-fondo-header {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+} */
+header img {
+    width: 85%;
+    height: 200px;
 }
 .nav-logo {
     width: 90px;
