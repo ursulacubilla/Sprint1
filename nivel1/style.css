@@ -193,7 +193,136 @@ main .caja5 div {
     background-color: coral; 
 }
 
-/* MOBILE*/
+/* MOBILE 1*/
+@media (min-width: 90px) and (max-width: 180px) {
+    .contenedor {
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    header {
+        height: 200px;
+        margin-top: 10px;
+        border: 15px solid black;
+    }
+    header nav .caja1 {
+        display: block;
+        height: 80px;
+    }
+    header .caja2 {
+        height: 60px;
+        margin-top: 30px;
+    }
+    main {
+        border: 15px solid yellowgreen;
+        grid-template-columns: 6fr;
+        margin: 0 0 10px 0;
+    }
+    footer {
+        border: 15px solid black;
+    }
+    main .caja3 {
+        width: 100%;
+        border-right: 0;
+    }
+    main .caja4 {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    main .caja5 {
+        width: 100%;
+        border-top: 15px solid yellowgreen;
+        margin-bottom: 10px;
+    }
+    nav .c1, nav .c2, nav .c3 {
+        width: 80%;
+        height: 20px;
+        margin: 10px 10px 10px 10px;
+    }
+    .c4 {
+        width: 75%;
+        height: 20px;
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .c5, .c7 {
+        width: 50%;
+        height: 20px;
+        margin-top: 20px;
+    }
+
+    .c6, .c8, .c9, .c10, .c11 {
+        width: 50%;
+        margin: 20px 0 0 20px;
+        height: 20px;
+    }
+}
+/* MOBILE 2*/
+@media (min-width: 181px) and (max-width: 319px) {
+    .contenedor {
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    header {
+        height: 200px;
+        margin-top: 10px;
+        border: 15px solid black;
+    }
+    header nav .caja1 {
+        display: block;
+        height: 80px;
+        margin-left: 20px;
+    }
+    header .caja2 {
+        height: 60px;
+        margin-top: 30px;
+    }
+    main {
+        border: 15px solid yellowgreen;
+        grid-template-columns: 6fr;
+        margin: 0 0 10px 0;
+    }
+    footer {
+        border: 15px solid black;
+    }
+    main .caja3 {
+        width: 100%;
+        border-right: 0;
+    }
+    main .caja4 {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    main .caja5 {
+        width: 100%;
+        border-top: 15px solid yellowgreen;
+        margin-bottom: 10px;
+    }
+    nav .c1, nav .c2, nav .c3 {
+        width: 80%;
+        height: 20px;
+        margin: 10px 10px 10px 10px;
+    }
+    .c4 {
+        width: 75%;
+        height: 20px;
+        margin-left: 25px;
+        margin-top: 20px;
+    }
+    .c5, .c7 {
+        width: 80%;
+        height: 20px;
+        margin-top: 20px;
+    }
+
+    .c6, .c8, .c9, .c10, .c11 {
+        width: 80%;
+        margin: 20px 0 0 20px;
+        height: 20px;
+    }
+}
+/* MOBILE 3*/
 @media (min-width: 320px) and (max-width: 480px) {
     .contenedor {
         width: 320px;
