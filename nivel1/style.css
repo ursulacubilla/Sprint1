@@ -4,8 +4,7 @@
 }
 .contenedor {
     max-width: 1200px;
-    margin: 0 auto;
-    
+    margin: 0 auto;  
 }
 header {
     height: 250px;
@@ -63,7 +62,6 @@ nav .c3 {
     margin-left: 10px;
     background-color: blue;
 }
-
 main {
     position: relative;
     display: grid;
@@ -81,8 +79,6 @@ footer {
     background: peachpuff;
     border: 30px solid black;
 }
-
-
 .caja2 {
     position: relative;
     display: flex;
@@ -108,7 +104,6 @@ main .caja3 {
     background-color: plum;
     border-right: 30px solid black;
 }
-
 main .caja3 div {
     display: inline-block;
 }
@@ -118,7 +113,6 @@ main .caja4 div {
 main .caja5 div {
     display: inline-block;
 }
-
 .c5 {
     position: relative;
     display: flex;
@@ -250,7 +244,6 @@ main .caja5 div {
         height: 20px;
         margin-top: 20px;
     }
-
     .c6, .c8, .c9, .c10, .c11 {
         width: 50%;
         margin: 20px 0 0 20px;
@@ -315,7 +308,6 @@ main .caja5 div {
         height: 20px;
         margin-top: 20px;
     }
-
     .c6, .c8, .c9, .c10, .c11 {
         width: 80%;
         margin: 20px 0 0 20px;
@@ -370,7 +362,6 @@ main .caja5 div {
         margin: 10px 10px 10px 10px;
     }
     .c4 {
-    
         width: 75%;
         height: 20px;
         margin-left: 30px;
@@ -381,7 +372,6 @@ main .caja5 div {
         height: 20px;
         margin-top: 20px;
     }
-
     .c6, .c8, .c9, .c10, .c11 {
         width: 80%;
         margin: 20px 0 0 20px;
